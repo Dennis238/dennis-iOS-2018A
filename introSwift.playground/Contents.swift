@@ -1,6 +1,7 @@
 //: Playground - noun: a place where people can play
 
-/*import UIKit
+/*Clase 1
+ import UIKit
 
 var str = "Hello, playground"
 let str2 = "Hello, playground 2"
@@ -102,6 +103,7 @@ default:
 
 
 
+/* Clase 2
 func myFunction(){
     print("Hello")
 }
@@ -224,6 +226,12 @@ var someSet:Set<Int> = [2,1,1,23,4,5,6,2] //set cuando no importa el orden
 someSet.contains(1)
 someSet.isEmpty
 someSet.insert(900)
+*/
+
+
+
+
+
 
 
 
